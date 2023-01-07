@@ -1,0 +1,1 @@
+This project was part of Object Oriented Design and Pattern Course in my MS in Computer Science. In this assignment we had to create a calculator using Infix to postfix with some of the design patterns which includes Command Pattern,Abstract Factory Pattern and Array Iterator.
